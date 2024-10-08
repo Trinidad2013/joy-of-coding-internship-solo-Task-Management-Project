@@ -1,3 +1,8 @@
 export default function Home() {
-  return <div>This empty DashBoard is for future advanced feature.</div>;
+  return (
+    <h3>
+      This is the Joy of Coding Intership Solo Project made by Xiao Liang (SoCal
+      Thomas). This empty DashBoard is for future advanced feature.
+    </h3>
+  );
 }
